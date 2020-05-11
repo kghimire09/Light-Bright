@@ -1,1 +1,2 @@
 # Light-Bright
+Divide the drawing panel into a grid (the size of which should be controlled by command line arguments and defaulting to 50 by 50). Each cell of the grid should start off black. If a cell is "clicked" or "dragged" over then it should toggle its color between white and black. Drawn thin grey lines between each cell of the grid. Note that the size of the cells will stay fixed, so rows and columns will have to be "added" or "removed" as the frame is resized.
